@@ -26,7 +26,11 @@ Start the server
         node server.js
 
 
-Send a POST request to the " /translate"  endpoint with a JSON body 
+Send a POST request to the " localhost:3000/translate " with a JSON body 
+ex= 
+{
+    "text": "Hello, how are you?"
+}
 
 
 Dependencies:
