@@ -1,4 +1,4 @@
-Translation API with Express and RapidAPI
+#Translation API with Express and RapidAPI
 This project implements a simple Express API endpoint to translate text from English to French using the RapidAPI translation service.
  It utilizes Axios to make HTTP requests to the RapidAPI endpoint.
 
